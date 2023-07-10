@@ -72,7 +72,7 @@ public class Esame_federico_marra_7025997_os_2023_06_20 {
         }
         System.out.println();
         for (int k = 0; k < 2; k++) {
-            System.out.println("OT" + ot[k].id + " printed: " + ot[k].nStampe + " messages");
+            System.out.println("OT" + ot[k].id + " printed: " + ot[k].nStampe + " times");
         }
     }
 
