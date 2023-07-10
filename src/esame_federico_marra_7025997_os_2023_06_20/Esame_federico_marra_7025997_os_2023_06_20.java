@@ -5,8 +5,9 @@ import java.util.concurrent.Semaphore;
 
 /**
  * @author Federico Marra 7025997
- * @date 20/06/2021
  * @exam Sistemi Operativi
+ * @date 20/06/2021
+ * @valutation 25
  */
 public class Esame_federico_marra_7025997_os_2023_06_20 {
     /**
